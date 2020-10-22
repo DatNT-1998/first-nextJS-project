@@ -4,7 +4,7 @@ class User extends Component {
     render() {
         return (
             <h1>
-                Hello User
+                Hello User Edit new branch
             </h1>
         );
     }
